@@ -6,6 +6,6 @@
   - Copyright(c)-> MIT LICENSE
 
 
-## [Platformer](https://schneckedde.github.io/platformer):
+## [Platformer](https://schneckeddef.github.io/Platformer/):
   - Made with Javascript from scratch  
   - Copyright(c)-> MIT LICENSE
