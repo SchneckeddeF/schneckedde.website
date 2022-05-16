@@ -19,3 +19,4 @@
   - Made with the Ursina engine
   - Is in active developement
   - Programmed in Python
+  - Copyright(c)-> MIT LICENSE
