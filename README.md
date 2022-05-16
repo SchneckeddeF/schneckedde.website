@@ -14,7 +14,7 @@
   - made with the Game Engine Godot
   - Copyright(c)-> MIT LICENSE
 
-## [First Person Shooter](https://github.com/SchneckeddeF/First-Person-Shooter/))
+## [First Person Shooter](https://github.com/SchneckeddeF/First-Person-Shooter/)
   - [Download](https://github.com/SchneckeddeF/First-Person-Shooter/releases/download/v0.1/game.zip)
   - Made with the Ursina engine
   - Is in active developement
