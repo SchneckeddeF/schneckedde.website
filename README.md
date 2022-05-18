@@ -15,7 +15,7 @@
   - Copyright(c)-> MIT LICENSE
 
 ## [First Person Shooter](https://github.com/SchneckeddeF/First-Person-Shooter/)
-  - [Download](https://github.com/SchneckeddeF/First-Person-Shooter/releases/download/v0.1/game.zip)
+  - [Download](https://github.com/SchneckeddeF/First-Person-Shooter/releases/download/v0.2/main.zip)
   - Made with the Ursina engine
   - Is in active developement
   - Programmed in Python
