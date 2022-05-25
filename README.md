@@ -10,7 +10,7 @@
   - Made with Javascript from scratch  
   - Copyright(c)-> MIT LICENSE
   
-## [Godot](https://schneckeddef.github.io/Godot/)  
+## [Godot](https://schneckeddef.github.io/Godot1/)  
   - made with the Game Engine Godot
   - Copyright(c)-> MIT LICENSE
 
